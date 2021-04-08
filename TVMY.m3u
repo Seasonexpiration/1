@@ -1,0 +1,296 @@
+														BISMILLAH
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-ID="MY.TV1" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428036_ico.png" group-title="",TV1
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd
+
+
+#EXTINF:-1 tvg-ID="MY.TV2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428037_ico.png" group-title="",TV2
+http://OmA@51.79.208.146:61980/myplay/c_58002/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="MY.TV3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" group-title="",TV3
+http://OmA@51.79.208.146:61980/myplay/c_58003/index.m3u8?OmATV
+
+Tv3(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58004/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="MY.NTV7" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428039_ico.png" group-title="",NTV7
+http://OmA@51.79.208.146:61980/myplay/c_58005/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="MY.8TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428040_ico.png" group-title="",8TV
+http://OmA@51.79.208.146:61980/myplay/c_58006/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="MY.TV9" tvg-logo="https://i.ibb.co/jr1TXDd/tv9.png" group-title="",TV9
+http://OmA@51.79.208.146:61980/myplay/c_58007/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="Al-Hijrah" tvg-logo="https://i.ibb.co/tPDzz4R/alhijrah.png" group-title="",TV ALHIJRAH
+http://OmA@51.79.208.146:61980/myplay/c_58008/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="BERNAMA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="",BERNAMA
+http://OmA@51.79.208.146:61980/myplay/c_58009/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Berita RTM" tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Berita-NEW-PlayerLogo.jpg" group-title="",BERITA RTM
+https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="DramaSangat.my" group-title="" tvg-logo="https://baseimages.tonton.com.my/1580295767086_drama_sangat_new.jpg",Drama Sangat
+https://fvtv2.mywire.org/streams/dailymotion/ch_ds.m3u8|Referer=https://www.dailymotion.com
+
+DramaSangat(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58011/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="MY.OKEY" tvg-logo="https://i.ibb.co/fNTv9Cq/okey.png" group-title="",OKEY
+https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+
+
+Okey(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58012/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="RTM Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="",RTM SPORTS
+http://OmA@51.79.208.146:61980/myplay/c_58013/index.m3u8?OmATV
+
+Rtm sukan(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58013/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="",AWESOME TV
+http://OmA@51.79.208.146:61980/myplay/c_58014/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="MY.TV6" tvg-logo="https://i.ibb.co/ns3Pvm5/tv6.png" group-title="",TV6
+https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.ibb.co/xSGh4Lg/suriaSg.png" group-title="",SURIA
+http://OmA@50.7.161.82:8278/streams/d/Suria/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Awani" tvg-logo="https://www.google.com/url?q=https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Awani.png/revision/latest%3Fcb%3D20200922172412&sa=U&ved=0ahUKEwibxJ2T5tjuAhXNwjgGHayJAXUQ5hMIBTAA&usg=AOvVaw3eCAHW1YM-Ucj_fuY37ICn" group-title="",AWANI
+http://OmA@51.79.208.146:61980/myplay/c_58018/index.m3u8?OmATV
+
+Awani(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58018/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="DEWAN RAKYAT" tvg-logo="https://i.ibb.co/rFmGj1G/parlimen.png" group-title="",PARLIMEN
+https://parlimenrakyat.secureswiftcontent.com/Origin04/ngrp:RTM4/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Go Shop 111" tvg-logo="https://malaysiafreebies.com/wp-content/uploads/2019/10/GoShop.jpg" group-title="",GO SHOP
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
+
+
+#EXTINF:-1 tvg-id="MY.SARAWAK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/220px-TVS_Sarawak.jpg" group-title="",TVS
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
+
+
+#EXTINF:-1 tvg-ID="Hello" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428052_ico.png" group-title="",HELLO
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
+
+#EXTINF:-1 tvg-ID="Naura" tvg-logo="https://i.ibb.co/7NFQLLb/naura.png" group-title="",NAURA
+http://OmA@51.79.208.146:61980/myplay/c_58042/index.m3u8?OmATV
+
+Naura(Backup kot)
+http://foctv.xyz:25510/live/freebasic/9090/183.m3u8
+
+http://OmA@50.7.161.82:8278/streams/d/naura_pye/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Ria" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="",RIA
+http://OmA@51.79.208.146:61980/myplay/c_58040/index.m3u8?OmATV
+
+Ria(Backup)
+http://OmA@50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Prima" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="",PRIMA
+http://OmA@51.79.208.146:61980/myplay/c_58017/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Oasis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="",OASIS
+http://OmA@51.79.208.146:61980/myplay/c_58019/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Citra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Citra.png" group-title="",CITRA
+http://OmA@51.79.208.146:61980/myplay/c_58035/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Warna" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" group-title="",WARNA
+http://OmA@51.79.208.146:61980/myplay/c_58037/index.m3u8?OmATV
+
+Warna(Backup)
+http://OmA@50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="",RANIA
+http://OmA@51.79.208.146:61980/myplay/c_58034/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Aura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Astro_Aura_NEW.png" group-title="",AURA
+http://OmA@51.79.208.146:61980/myplay/c_58036/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro TVIQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Astro_TVIQ.png" group-title="",TVIQ
+http://OmA@51.79.208.146:61980/myplay/c_58020/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Ceria" tvg-logo="https://www.google.com/url?q=https://static.wikia.nocookie.net/logopedia/images/d/d6/Astro_Ceria_%25282D%2529.png/revision/latest/scale-to-width-down/340%3Fcb%3D20201022092228&sa=U&ved=0ahUKEwiw5dasytXuAhUpGFkFHXUYAy0Q5hMIBTAA&usg=AOvVaw2y2uVSsgChxVfF4lKDNUZ5" group-title="",CERIA
+http://OmA@51.79.208.146:61980/myplay/c_58024/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" group-title="",TA-DAA
+http://OmA@51.79.208.146:61980/myplay/c_58046/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="BOO" tvg-logo="https://i.ibb.co/rpy4ZJb/boo.png" group-title="",BOO
+http://OmA@51.79.208.146:61980/myplay/c_58038/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Vaanavil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png" group-title="",VAANAVIL
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+
+Vaanavil(Backup)
+http://OmA@51.79.208.146:61980/myplay/c_58022/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="BollyOne" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png" group-title="",BOLLYONE HD
+http://OmA@51.79.208.146:61980/myplay/c_58043/index.m3u8?OmATV
+
+
+
+#EXTINF:-1 tvg-ID="Colors Hindi" tvg-logo="https://i.ibb.co/PgNZbHc/colors-tamil.png" group-title="",Colors
+http://OmA@51.79.208.146:61980/myplay/c_58041/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="Makkal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a5/Makkal_TV_Logo.jpg" group-title="",MAKKAL TV
+http://OmA@51.79.208.146:61980/myplay/c_58023/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Astro_AEC.png" group-title="",AEC
+http://OmA@51.79.208.146:61980/myplay/c_58025/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Quan Jia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="",QUAN JIA HD
+http://OmA@50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Shuang Xing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Astro_SHX.png" group-title="",ShuangXing HD
+http://OmA@51.79.208.146:61980/myplay/c_58027/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Xiao Tai Yang" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="",XiaoTaiYang HD
+http://OmA@51.79.208.146:61980/myplay/c_58021/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="KBS World" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428266_ico.png" group-title="",KBS WORLD
+http://OmA@50.7.161.82:8278/streams/d/KBS/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="tvN" tvg-logo="https://i.ibb.co/Rv1HxMb/tvn.png" group-title="",TVN
+http://OmA@50.7.161.82:8278/streams/d/TVN/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="ONE" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428172_ico.png" group-title="",ONE
+http://OmA@50.7.161.82:8278/streams/d/SetOne/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-ID="Oh!K" tvg-logo="https://i.ibb.co/pj1r63Q/images-2021-02-13-T171023-070.jpg" group-title="",OH!K
+http://OmA@51.79.208.146:61980/myplay/c_58045/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Celestial Classic Movies" tvg-logo="https://i.ibb.co/wJSXztD/Celestial-Classic-Movies.png" group-title="",CCM
+http://OmA@51.79.208.146:61980/myplay/c_58030/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Celestial Movies" tvg-logo="https://i.ibb.co/SfFKZDc/celestial-movies.png" group-title="",CELESTIAL MOVIES
+http://OmA@51.79.208.146:61980/myplay/c_58028/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://www.appcreator24.com/srv/imgs/gen/1375153_ico.png" group-title="",HBO
+http://OmA@50.7.161.82:8278/streams/d/Hbo/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.ibb.co/1zxkQKw/hbo-sig.png" group-title="",HBO SIGNATURE
+http://OmA@185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="https://i.ibb.co/8bFWqQr/animalplanet.png" group-title="",ANIMAL PLANET
+http://OmA@50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="HGTV" tvg-logo="https://i.ibb.co/qy0n02Z/hgtv.png" group-title="",HGTV
+http://OmA@50.7.161.82:8278/streams/d/HGTV/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="https://i.ibb.co/37RJYY2/tlc.png" group-title="",TLC
+http://OmA@185.180.221.194:8278/streams/d/Tlc/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/246px-Food_Network_New_Logo.png" group-title="",FOOD NETWORK
+http://OmA@51.79.208.146:61980/myplay/c_58039/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Kix" tvg-logo="https://i.ibb.co/YyJt5S1/kix.png" group-title="",KIX
+http://OmA@50.7.161.82:8278/streams/d/KiX/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="",ARENA
+http://OmA@51.79.208.146:61980/myplay/c_58015/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="beIN Sports MAX" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/819_300.png" group-title="",BEIN SPORTS MAX
+http://OmA@51.79.208.146:61980/myplay/c_58044/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="",ASSP 1
+http://OmA@51.79.208.145:61980/myplay/mlsp_601/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="",ASSP 2
+http://OmA@51.79.208.145:61980/myplay/mlsp_602/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="",ASSP 3
+http://OmA@51.79.208.145:61980/myplay/mlsp_603/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro SuperSport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="",ASSP 4
+http://OmA@51.79.208.145:61980/myplay/mlsp_604/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="FOX Sports" tvg-logo="https://i.ibb.co/pJ1N9Fm/foxsport1.png" group-title="",FOX SPORTS
+http://OmA@185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-logo="https://i.ibb.co/M8hDjcd/foxsport2.png" group-title="",FOX SPORTS 2
+http://OmA@185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="FOX Sports 3" tvg-logo="https://i.ibb.co/NtkqCN8/foxsport3.png" group-title="",FOX SPORTS 3
+http://OmA@185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Astro Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="",CRICKET
+http://OmA@51.79.208.145:61980/myplay/mlsp_605/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="Golf Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Golf_Channel_Logo_2018.png" group-title="",GOLF
+http://OmA@51.79.208.145:61980/myplay/mlsp_606/index.m3u8?OmATV
+
+
+#EXTINF:-1 tvg-id="WWE Network" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/196_144.png" group-title="",WWE
+http://OmA@51.79.208.146:61980/myplay/c_58016/index.m3u8?OmATV
+
+								ALHAMDULILLAH SEMOGA SEMUA KEKAL BERJALAN LANCAR SEHINGGALAH SAMPAI BILA2 AMIN.....
